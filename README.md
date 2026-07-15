@@ -1,4 +1,4 @@
-## 🚀 lunes host 自动登录续期（GitHub Actions）
+## 🚀 lunes host 自动登录保活（GitHub Actions）
 
 这是一个基于 GitHub Actions 的自动化脚本，用于定时登录自动续期[lunes host](https://betadash.lunes.host/) 应用。
 
